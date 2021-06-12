@@ -1,0 +1,17 @@
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\bin\Debug\netcoreapp2.2\VkBot.deps.json
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\bin\Debug\netcoreapp2.2\VkBot.runtimeconfig.json
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\bin\Debug\netcoreapp2.2\VkBot.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\bin\Debug\netcoreapp2.2\VkBot.dll
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\bin\Debug\netcoreapp2.2\VkBot.pdb
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\obj\Debug\netcoreapp2.2\VkBot.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\obj\Debug\netcoreapp2.2\VkBot.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\obj\Debug\netcoreapp2.2\VkBot.AssemblyInfo.cs
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\obj\Debug\netcoreapp2.2\VkBot.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\obj\Debug\netcoreapp2.2\VkBot.RazorAssemblyInfo.cache
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\obj\Debug\netcoreapp2.2\VkBot.RazorAssemblyInfo.cs
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\obj\Debug\netcoreapp2.2\VkBot.RazorTargetAssemblyInfo.cache
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\obj\Debug\netcoreapp2.2\VkBot.dll
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\obj\Debug\netcoreapp2.2\VkBot.pdb
+C:\Users\User\Source\Repos\VkNetCallbackTemplate\VkBot\obj\Debug\netcoreapp2.2\VkBot.genruntimeconfig.cache
